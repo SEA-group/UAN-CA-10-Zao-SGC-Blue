@@ -1,9 +1,6 @@
 <JGM095_203mm55.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/lods/JGM095_203mm55_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM095_203mm55	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/gun/JGM095_203mm55.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JGM095_203mm55.model>

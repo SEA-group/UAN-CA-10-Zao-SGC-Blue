@@ -1,8 +1,6 @@
 <JSC034_Zao_1944_Bow_ports.model>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<materialNames />
-	<extent>	200.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944_Bow_ports	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Zao/JSC034_Zao_1944/ship/JSC034_Zao_1944_Bow_ports.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JSC034_Zao_1944_Bow_ports.model>
